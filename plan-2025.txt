@@ -1,5 +1,6 @@
 Plan 2025
 - Submit Scopus
 - Melaksanakan Pengabdian di Desa
-- Menguasai Bidang Data 
+- Menguasai Bidang Data Mining
 - Menguasai pemrograman Mobile
+- Menguasai pemrograman web
